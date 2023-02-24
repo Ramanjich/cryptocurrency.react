@@ -1,0 +1,33 @@
+/* Write your CSS code here */
+.currency-items {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+.items-type-para {
+  color: #ffffff;
+  margin-top: 0px;
+  margin-left: 10px;
+}
+.items-usd-para {
+  color: #ffffff;
+}
+.items-euro-para {
+  color: #ffffff;
+}
+.items-usd-euro-container {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 40%;
+}
+.items-coin-type {
+  display: flex;
+  flex-direction: row;
+  margin-left: 50px;
+  margin-top: 12px;
+}
+.item-type-image {
+  height: 20px;
+  width: 20px;
+}
